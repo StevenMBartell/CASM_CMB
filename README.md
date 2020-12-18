@@ -13,7 +13,7 @@ File naming conventions
 
 .\CMB_Env_Data\env_casmWL_Scenario2.prn contains the daily values of the environmental input data required by the model
 
-NOTE: the example files are intended to show the format and content of these input files. These examples have not been validated or calibrated for any particular wetland application of the model. 
+NOTE: the example files provided are intended to show the format and content of these input files. These examples have not been validated or calibrated for any particular wetland application of the model. 
 
 
 The above sub-directories are assumed to be found at c:\casm_CMB that the user must create and populate with the necessary file prior to execution. 
