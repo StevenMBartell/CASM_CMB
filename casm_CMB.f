@@ -1,4 +1,4 @@
-      Program CASM_XXX
+      Program CASM_CMB
 c
 c     Version 1.00
 c     This version combines the CASM stream, pond, and emergent wetland models into a single source code
