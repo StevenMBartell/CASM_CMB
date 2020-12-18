@@ -1,5 +1,5 @@
 # CASM_CMB
-Source code for combined farm pond, stream, and wetland CASM
+Source code for combined farm pond, stream, and wetland CASM (Comprehensive Aquatic System Model)
 
 The casm_CMB.f file is the fortran source code for the combined CASM version. This code has been compiled and executed using gfortran under Windows 10.
 
